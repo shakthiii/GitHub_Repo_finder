@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  padding: 20px 0;
+}
+.form {
+  display: flex;
+  padding: 5px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.form-check {
+  margin: 8px;
+}
+.search {
+  background-color: cyan;
+}
+
+.hide {
+  background-color: grey;
+}
